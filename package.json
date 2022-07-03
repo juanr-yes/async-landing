@@ -1,0 +1,23 @@
+{
+  "name": "7.1-proyecto-asincronismo-js",
+  "version": "1.0.0",
+  "description": "Proyecto resultante de la realización del \"Curso de Asincronismo con JavaScript\" en Platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanr-yes/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanr-yes/async-landing/issues"
+  },
+  "homepage": "https://github.com/juanr-yes/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
